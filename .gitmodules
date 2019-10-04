@@ -1,0 +1,3 @@
+[submodule "keras_one_cycle_clr"]
+	path = keras_one_cycle_clr
+	url = https://github.com/psklight/keras_one_cycle_clr.git
